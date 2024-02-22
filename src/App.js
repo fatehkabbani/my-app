@@ -25,10 +25,10 @@ function App() {
   return (
     <div>
       {/* <useMousePosition /> */}
-      {/* <div className="fade-out-div flex justify-center items-center flex-col gap-y-1">
+      <div className="fade-out-div flex justify-center items-center flex-col gap-y-1">
         <div className="my-name text-xl">Fateh</div>
         <div className="loader"></div>
-      </div> */}
+      </div>
       <Navbar />
       <HeroSection />
       <ProjectSection />

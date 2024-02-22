@@ -25,8 +25,7 @@ function ProjectSection() {
           <ServiceCard
             jobTitle="DÉVELOPPEMENT WEB"
             title="Full-Stack Web Développeur"
-            description=" Création de sites web réactifs à l'aide de  PHP, HTML, CSS, JavaScript et JQuery  . Maîtrise de MySQL pour la gestion des bases de données.
-                      "
+            description=" Création de sites web réactifs à l'aide de  PHP, HTML, CSS, JavaScript et JQuery  . Maîtrise de MySQL pour la gestion des bases de données."
           />
           <ServiceCard
             jobTitle="UI/UX DESIGN"
@@ -38,7 +37,7 @@ function ProjectSection() {
             title="Data Architect"
             description="Proficient in managing and optimizing database systems, including designing efficient database schemas and establishing relationships between different data entities. "
           />
-          <WordInBackground word="Services" left="50" top="70"  zIndex="-1"/>
+          <WordInBackground word="Services" left="50" top="70" zIndex="-1" />
         </div>
       </div>
     </div>
